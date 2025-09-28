@@ -1,0 +1,5 @@
+{
+  "name": "Minecraft Me",
+  "description": "Upload a photo of yourself, and this app will use AI to find your Minecraft character twin and dress you in their iconic outfit.",
+  "requestFramePermissions": []
+}
